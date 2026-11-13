@@ -43,8 +43,8 @@ Isi dokumen ini diambil dari Bab 1 *Software Critical Design Review Document for
 | 5026211155 | I Gede Mahawiyarta Priyadarsa | _belum diisi_ | _belum ditambahkan_ |
 | 5026221062 | Putri Salsabilla Insani | _belum diisi_ | _belum ditambahkan_ |
 | 5026221064 | Ghiar Ghoniyyu Atha Akbar | _belum diisi_ | _belum ditambahkan_ |
-| 5026231072 | Arrivo Arsa Mevano | _belum diisi_ | _belum ditambahkan_ |
-| 5026231153 | Fachry Fariska Ilham | _belum diisi_ | _belum ditambahkan_ |
+| 5026231072 | Arrivo Arsa Mevano | @ipoyyyiii | _belum ditambahkan_ |
+| 5026231153 | Fachry Fariska Ilham | @fachry2005 | _belum ditambahkan_ |
 
 ## Pembagian tugas
 
