@@ -40,7 +40,7 @@ Isi dokumen ini diambil dari Bab 1 *Software Critical Design Review Document for
 | NRP | Nama | Username GitHub | Foto |
 | --- | --- | --- | --- |
 | 5026231191 | Dzakiyyah Nur A. H. | @dzakiyyaahh | _belum ditambahkan_ |
-| 5026211155 | I Gede Mahawiyarta Priyadarsa | _belum diisi_ | _belum ditambahkan_ |
+| 5026211155 | I Gede Mahawiyarta Priyadarsa | @mahawiyarta | _belum ditambahkan_ |
 | 5026221062 | Putri Salsabilla Insani | @putrisalsabillainsani | _belum ditambahkan_ |
 | 5026221064 | Ghiar Ghoniyyu Atha Akbar | @Ghiar7 | _belum ditambahkan_ |
 | 5026231072 | Arrivo Arsa Mevano | @ipoyyyiii | _belum ditambahkan_ |
@@ -75,8 +75,6 @@ psql -U postgres -d ceritakita -f database/sql/ceritakita_v1_schema.sql
 npm install && npm run dev
 php artisan serve
 ```
-
-File `.env` tidak ikut di repo. Jangan pernah meng-commit file tersebut.
 
 ## Database
 
